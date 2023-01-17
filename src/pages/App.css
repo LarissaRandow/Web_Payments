@@ -1,0 +1,16 @@
+.Header {
+  display: flex;
+  justify-content: center;
+}
+
+.TabUser {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+}
+
+.Button{
+  margin-top: 10px;
+  display: flex;
+  justify-content: right;
+}
